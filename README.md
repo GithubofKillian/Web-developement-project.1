@@ -8,20 +8,20 @@ Les données des utilisateurs, produits, et autres informations sont stockées d
 
 Fonctionnalités principales
 
-    Inscription avec vérification par email.
-    Connexion/déconnexion des utilisateurs.
-    Gestion des rôles : accès client ou admin.
-    Interface utilisateur adaptée à chaque rôle.
-    Catalogue des produits et gestion des ventes (en cours de développement).
+Inscription avec vérification par email.
+Connexion/déconnexion des utilisateurs.
+Gestion des rôles : accès client ou admin.
+Interface utilisateur adaptée à chaque rôle.
+Catalogue des produits et gestion des ventes (en cours de développement).
 
 Installation et utilisation
 
-    Cloner ce dépôt.
-    Configurer un serveur local avec PHP et MySQL (ex: XAMPP, MAMP).
-    Importer la base de données MySQL fournie (fichier .sql).
-    Modifier les paramètres de connexion à la base dans config.php.
-    Lancer le serveur local et accéder au site via le navigateur.
-    Suivre le processus d’inscription, puis tester la connexion.
+Cloner ce dépôt.
+Configurer un serveur local avec PHP et MySQL (ex: XAMPP, MAMP).
+Importer la base de données MySQL fournie (fichier .sql).
+Modifier les paramètres de connexion à la base dans config.php.
+Lancer le serveur local et accéder au site via le navigateur.
+Suivre le processus d’inscription, puis tester la connexion.
 
 Ressources supplémentaires
 
